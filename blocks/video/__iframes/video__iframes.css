@@ -1,8 +1,8 @@
 .video__iframes {
-    max-height: 316px;
     display: flex;
     justify-content: center;
     position: relative;
+    top: 50px;
     padding: 0;
     list-style: none;
     margin: 0 auto;
